@@ -1,0 +1,12 @@
+﻿Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_GetError" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_MapRGB" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_FillRect" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_CreateWindow" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_GetWindowSurface" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_UpdateWindowSurface" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_DestroyWindow" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_PollEvent" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_Init" in Funktion "SDL_main".
+Quelle.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "SDL_Quit" in Funktion "SDL_main".
+MSVCRTD.lib(exe_main.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "main" in Funktion ""int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)".
+C:\Users\marce\Uni\Bachelor Praktikum\Programm Oberfläche\Uni Drive\1\x64\Debug\Project1.exe : fatal error LNK1120: 11 nicht aufgelöste Externe

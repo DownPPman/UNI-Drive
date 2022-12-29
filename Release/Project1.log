@@ -1,0 +1,21 @@
+﻿  Quelle.cpp
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+C:\Users\marce\Uni\Bachelor Praktikum\Programm Oberfläche\Uni Drive\1\Project1\Shader.cpp(81): warning C4715: "Shader::createSheder": Nicht alle Codepfade geben einen Wert zurück.
+  3 of 113 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+LINK : warning LNK4286: Das in "___glewLinkProgram" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewDetachShader" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewShaderSource" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewDeleteProgram" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewAttachShader" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewGetShaderInfoLog" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewCreateProgram" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewCreateShader" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewCompileShader" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewGetShaderiv" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+LINK : warning LNK4286: Das in "___glewUseProgram" definierte Symbol "glew32s.lib(glew.obj)" wird durch "Shader.obj" importiert.
+glew32s.lib(glew.obj) : warning LNK4099: PDB "vc120.pdb" wurde nicht mit "glew32s.lib(glew.obj)" oder an "C:\Users\marce\Uni\Bachelor Praktikum\Programm Oberfläche\Uni Drive\1\Release\vc120.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  Project1.vcxproj -> C:\Users\marce\Uni\Bachelor Praktikum\Programm Oberfläche\Uni Drive\1\Release\Project1.exe

@@ -1,0 +1,12 @@
+﻿Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_GetWindowSurface".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_Init".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_DestroyWindow".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_GetError".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_Quit".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_PollEvent".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_MapRGB".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_CreateWindow".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_FillRect".
+Quelle.obj : error LNK2001: Nicht aufgelöstes externes Symbol "SDL_UpdateWindowSurface".
+MSVCRT.lib(exe_main.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "main".
+C:\Users\marce\Uni\Bachelor Praktikum\Programm Oberfläche\Uni Drive\1\x64\Release\Project1.exe : fatal error LNK1120: 11 nicht aufgelöste Externe
