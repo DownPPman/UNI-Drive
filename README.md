@@ -46,9 +46,6 @@ Switched to a new branch 'localxml'
 updating remote phytec repo repository
 $ repo init --repo-url=https://git.phytec.de/git/git-repo --repo-branch=stable -u /home/phyvm/yocto/.localxml
 
-Your identity is: DownPPman <marcellokoegler@yahoo.de>
-If you want to change this, please re-run 'repo init' with --config-name
-
 Testing colorized output (for 'repo diff', 'repo status'):
   black    red      green    yellow   blue     magenta   cyan     white 
   bold     dim      ul       reverse 
@@ -63,9 +60,6 @@ Selecting SoC to command line argument: localxml
 switching to localxml
 $ repo init -b localxml
 
-Your identity is: DownPPman <marcellokoegler@yahoo.de>
-If you want to change this, please re-run 'repo init' with --config-name
-
 repo has been initialized in /home/phyvm/yocto/
 If this is not the directory in which you want to initialize repo, please run:
    rm -r /home/phyvm/yocto//.repo
@@ -74,9 +68,6 @@ and try again.
 Selecting Release to command line argument: localxml
 switching to localxml
 $ repo init -m localxml.xml
-
-Your identity is: DownPPman <marcellokoegler@yahoo.de>
-If you want to change this, please re-run 'repo init' with --config-name
 
 repo has been initialized in /home/phyvm/yocto/
 If this is not the directory in which you want to initialize repo, please run:
